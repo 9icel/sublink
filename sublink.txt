@@ -1,1 +1,4 @@
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.64.152.23:2087?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40V2ConfigPro
+
+
+trojan://humanity@109.120.177.183:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%40V2ConfigPro
