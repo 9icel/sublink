@@ -1,0 +1,1 @@
+vless://4efcbc89-2796-4b94-a641-0bbc5bab34af@172.64.152.23:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=dawn-rice-dc4bshs.hajoxeb128.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dawn-rice-dc4bshs.hajoxeb128.workers.dev#aa
