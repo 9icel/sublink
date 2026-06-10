@@ -1,1 +1,2 @@
 trojan://b1c58d44-e3ab-49d5-8fd9-50b4a119bf6a@172.64.152.23:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=shy-star-5cdf.citydig90.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=shy-star-5cdf.citydig90.workers.dev#%40V2ConfigPro
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.64.152.23:2087?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40V2ConfigPro
