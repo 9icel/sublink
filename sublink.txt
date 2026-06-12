@@ -1,2 +1,3 @@
 trojan://humanity@109.120.177.183:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%40V2ConfigPro
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.64.152.23:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%40V2ConfigPro
+vless://fcc386d8-b796-4bd1-8d50-8fab79c3f94e@91.107.179.105:14719?security=&encryption=none&headerType=none&type=tcp#%40V2ConfigPro
