@@ -1,3 +1,3 @@
-trojan://humanity@109.120.177.183:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%40V2ConfigPro
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.64.152.23:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%40V2ConfigPro
-vless://76bd5986-5a7e-423c-bd46-5bdb872e036a@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=hiimhimmymacgill.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=hiimhimmymacgill.dpdns.org#%40V2ConfigPro
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%40V2ConfigPro
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@216.24.57.1:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%40V2ConfigPro
+vless://76bd5986-5a7e-423c-bd46-5bdb872e036a@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=insomnia.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=insomnia.dpdns.org#%40V2ConfigPro
